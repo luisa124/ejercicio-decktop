@@ -1,0 +1,206 @@
+* {
+    font-family: sans-serif;
+}
+
+nav {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    z-index: 1000;
+    margin-top: 0;
+    position: fixed;
+    padding-top: 0px;
+    background: #FFF;
+    transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3;1);
+}
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 70px;
+}
+.logo1 {
+    position: absolute;
+    top: 100px;
+    left: 80px;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+    list-style: none;
+}
+a:hover {
+    color: #FF00BF;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.boton {
+    position: absolute;
+    top: 30px;
+    left: 1050px;
+}
+.boton2 {
+    position: absolute;
+    background-color: #FF00BF;
+    width: 80px;
+    height: 50px;
+}
+.a{
+    position: absolute;
+    top: 330px;
+    left: 100px;
+}
+.informacion {
+    color: blue;
+    background-color: aliceblue;
+    position: absolute;
+    top: 200px;
+    left: 948px;
+    width: 400px;
+    height: 500px;
+}
+
+/*---------fondo de textos--------*/
+ .color-fondo {
+    background-color: #571576;
+    position: absolute;
+    top: 762px;
+    width: 1340px;
+    height: 500px;
+} 
+.img1 {
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+.parrafo1 {
+    position: relative;
+    top: 0px;
+    left: 200px;
+    background-color: #571576;
+    color: aliceblue;
+    height: 120px;
+    width: 400px;
+}
+.parrafo2 {
+    position: relative;
+    top: 0px;
+    left: 200px;
+    background-color: #571576;
+    color: aliceblue;
+    height: 120px;
+    width: 420px;
+}
+.parrafo3 {
+    position: relative;
+    top: opx;
+    left: 200px;
+    background-color: #571576;
+    color: aliceblue;
+    height: 140px;
+    width: 450px;
+}
+
+/*----------------mis videos de reproduccion------------*/
+.parrafos {
+    background-color: #FFF;
+    font-size: 17px;
+    position: relative;
+    top: 470px;
+    left: 50px;
+    height: 200px;
+    width: 350px;
+}
+.video {
+    position: relative;
+    top: 257px;
+    left: 480px;
+}
+.parrafos1 {
+    background-color: #FFF;
+    font-size: 17px;
+    position: absolute;
+    top: 2300px;
+    left: 45px;
+    height: 200px;
+    width: 350px;
+}
+.video1 {
+    position: relative;
+    top: 250px;
+    left: 0px;
+}
+.parrafos2 {
+    background-color: #FFF;
+    font-size: 17px;
+    position: absolute;
+    top: 1800px;
+    left: 950px;
+    height: 200px;
+    width: 350px;
+}
+.video2 {
+    position: relative;
+    top: 246px;
+     left: 480px;
+}
+
+/*--------------------mi footer---------------------*/
+/*----------posicionamento y parrafos de mi footer--------*/
+ footer{
+     position: relative;
+     top: 214px;
+     background-color: #333447;
+     width: 1340px;
+     height: 600px;
+}
+footer{
+    color: aliceblue;
+}
+.parrafo4 {
+    font-size: 20px;
+    background-color: #333447;
+    position: relative;
+    top: 10px;
+    left: 150px;
+    width: 210px;
+    height: 320px;
+}
+.parrafo5 {
+    font-size: 20px;
+    background-color: #333447;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    width: 200px;
+    height: 300px;
+}
+.parrafo6 {
+    font-size: 20px;
+    background-color: #333447;
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    width: 200px;
+    height: 300px;
+}
+/*-----------posicionar imagenes en el footer----------*/
+.img2 {
+    position: absolute;
+    top: 20px;
+    left: 950px;
+}
+.img3 {
+    position: absolute;
+    top: 130px;
+    left: 950px;
+}
+.img4 {
+    position: absolute;
+    top: 240px;
+    left: 950px;
+}
+
+
+ 
